@@ -1,0 +1,18 @@
+- Es necesario mejorar el hamiltoniano, por más que se optimicen los parámetros
+el error nunca es menor que 2 por ejemplo
+
+- El error mínimo obtenido al momento ha sido Mean Squared Error (MSE): 2.1539188015809905
+
+- Tal vez una considración de multicapas pueda mejorar el hamiltoniano 
+(LEER: Monte Carlo and Kinetic Monte Carlo Methods – A Tutorial)
+
+    * Aquí se tiene en cuenta que las diferencias en altura de las partículas penaliza la energía 
+
+- Fundamental el libro: Simulation of Metal Electrodeposition Using the Kinetic Monte Carlo and Embedded-Atom Methods
+
+- Revisar chartterjee2017: Habla 
+
+
+- Chat de referencia: https://chatgpt.com/share/67a2d0da-d360-800c-ac50-b7fb962fe37a
+
+

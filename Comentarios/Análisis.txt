@@ -1,0 +1,5 @@
+- El modelo sin desorción funciona muy bien, habría que analizar si lo que hace la diffusión es un simil a la desorsión 
+o simplemente el modelo me está diciendo que no existen procesos de desorción en el sistema.
+
+- Tal vez si se incluye la interacción a primeros vecinos para la difusión se pueda corregir ls inconsistencia alrededor de
+20
