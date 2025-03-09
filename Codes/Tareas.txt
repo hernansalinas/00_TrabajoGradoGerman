@@ -1,0 +1,21 @@
+- Documentación física sobre kMC
+    - Documentación general de lo que es kMC
+    - Definir el problema: "darle interpretabilidad a los datos experimentales"
+    - ¿Qué aproximaciones se tienen en cuenta en la interpretabilidad del modelo físico?
+    - ¿Cómo se hizo el modelo?
+- Documentación optimización
+    - Optimización bayesiana y otros...
+
+
+
+
+Próximo Semestre...
+- Probar otros tipos de optimización y documentar
+- Hallar una conexión entre PIML y el modelo planteado
+- Interpretabilidad de parametros
+- Generalización 3D
+- Optimización por deltas de tiempo
+- Otras consideraciones
+    - Términos adicionales en el hamiltoniano
+    - Analizar procesos de nucleación (Proyecto de Malaria)
+Hasta aquí...
