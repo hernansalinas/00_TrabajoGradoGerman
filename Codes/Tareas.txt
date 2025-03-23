@@ -7,6 +7,11 @@
     - Optimización bayesiana y otros...
 
 
+Cosas que se pueden revisar...
+
+- Algoritmo de lista de eventos (Event-Driven kMC) 
+Mantiene una lista priorizada de eventos que ocurrirán, cada uno con un tiempo programado.
+
 
 
 Próximo Semestre...
@@ -19,3 +24,6 @@ Próximo Semestre...
     - Términos adicionales en el hamiltoniano
     - Analizar procesos de nucleación (Proyecto de Malaria)
 Hasta aquí...
+
+
+
