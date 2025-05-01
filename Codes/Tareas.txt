@@ -11,6 +11,7 @@ Cosas que se pueden revisar...
 
 - Algoritmo de lista de eventos (Event-Driven kMC) 
 Mantiene una lista priorizada de eventos que ocurrirán, cada uno con un tiempo programado.
+- Generar una PES basada en la nucleación
 
 
 
